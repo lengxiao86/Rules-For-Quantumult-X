@@ -1,183 +1,178 @@
-# YouTube部分
-//请注意，导入此规则将自动创建名为[YouTube]的策略组
-user-agent,com.google.ios.youtube*,YouTube
-user-agent,YouTube*,YouTube
-host-suffix,googlevideo.com,YouTube
-host-suffix,youtube.com,YouTube
-host,youtubei.googleapis.com,YouTube
-host-suffix,youtube,YouTube
-host-suffix,ggpht.cn,YouTube
-host-suffix,ggpht.com,YouTube
-host-suffix,googlevideo.com,YouTube
-host-suffix,gvt2.com,YouTube
-host-suffix,withyoutube.com,YouTube
-host-suffix,youtu.be,YouTube
-host-suffix,youtube-nocookie.com,YouTube
-host-suffix,youtube.ae,YouTube
-host-suffix,youtube.al,YouTube
-host-suffix,youtube.am,YouTube
-host-suffix,youtube.at,YouTube
-host-suffix,youtube.az,YouTube
-host-suffix,youtube.ba,YouTube
-host-suffix,youtube.be,YouTube
-host-suffix,youtube.bg,YouTube
-host-suffix,youtube.bh,YouTube
-host-suffix,youtube.bo,YouTube
-host-suffix,youtube.by,YouTube
-host-suffix,youtube.ca,YouTube
-host-suffix,youtube.cat,YouTube
-host-suffix,youtube.ch,YouTube
-host-suffix,youtube.cl,YouTube
-host-suffix,youtube.co,YouTube
-host-suffix,youtube.co.ae,YouTube
-host-suffix,youtube.co.at,YouTube
-host-suffix,youtube.co.cr,YouTube
-host-suffix,youtube.co.hu,YouTube
-host-suffix,youtube.co.id,YouTube
-host-suffix,youtube.co.il,YouTube
-host-suffix,youtube.co.in,YouTube
-host-suffix,youtube.co.jp,YouTube
-host-suffix,youtube.co.ke,YouTube
-host-suffix,youtube.co.kr,YouTube
-host-suffix,youtube.co.ma,YouTube
-host-suffix,youtube.co.nz,YouTube
-host-suffix,youtube.co.th,YouTube
-host-suffix,youtube.co.tz,YouTube
-host-suffix,youtube.co.ug,YouTube
-host-suffix,youtube.co.uk,YouTube
-host-suffix,youtube.co.ve,YouTube
-host-suffix,youtube.co.za,YouTube
-host-suffix,youtube.co.zw,YouTube
-host-suffix,youtube.com,YouTube
-host-suffix,youtube.com.ar,YouTube
-host-suffix,youtube.com.au,YouTube
-host-suffix,youtube.com.az,YouTube
-host-suffix,youtube.com.bd,YouTube
-host-suffix,youtube.com.bh,YouTube
-host-suffix,youtube.com.bo,YouTube
-host-suffix,youtube.com.br,YouTube
-host-suffix,youtube.com.by,YouTube
-host-suffix,youtube.com.co,YouTube
-host-suffix,youtube.com.do,YouTube
-host-suffix,youtube.com.ec,YouTube
-host-suffix,youtube.com.ee,YouTube
-host-suffix,youtube.com.eg,YouTube
-host-suffix,youtube.com.es,YouTube
-host-suffix,youtube.com.gh,YouTube
-host-suffix,youtube.com.gr,YouTube
-host-suffix,youtube.com.gt,YouTube
-host-suffix,youtube.com.hk,YouTube
-host-suffix,youtube.com.hn,YouTube
-host-suffix,youtube.com.hr,YouTube
-host-suffix,youtube.com.jm,YouTube
-host-suffix,youtube.com.jo,YouTube
-host-suffix,youtube.com.kw,YouTube
-host-suffix,youtube.com.lb,YouTube
-host-suffix,youtube.com.lv,YouTube
-host-suffix,youtube.com.ly,YouTube
-host-suffix,youtube.com.mk,YouTube
-host-suffix,youtube.com.mt,YouTube
-host-suffix,youtube.com.mx,YouTube
-host-suffix,youtube.com.my,YouTube
-host-suffix,youtube.com.ng,YouTube
-host-suffix,youtube.com.ni,YouTube
-host-suffix,youtube.com.om,YouTube
-host-suffix,youtube.com.pa,YouTube
-host-suffix,youtube.com.pe,YouTube
-host-suffix,youtube.com.ph,YouTube
-host-suffix,youtube.com.pk,YouTube
-host-suffix,youtube.com.pt,YouTube
-host-suffix,youtube.com.py,YouTube
-host-suffix,youtube.com.qa,YouTube
-host-suffix,youtube.com.ro,YouTube
-host-suffix,youtube.com.sa,YouTube
-host-suffix,youtube.com.sg,YouTube
-host-suffix,youtube.com.sv,YouTube
-host-suffix,youtube.com.tn,YouTube
-host-suffix,youtube.com.tr,YouTube
-host-suffix,youtube.com.tw,YouTube
-host-suffix,youtube.com.ua,YouTube
-host-suffix,youtube.com.uy,YouTube
-host-suffix,youtube.com.ve,YouTube
-host-suffix,youtube.cr,YouTube
-host-suffix,youtube.cz,YouTube
-host-suffix,youtube.de,YouTube
-host-suffix,youtube.dk,YouTube
-host-suffix,youtube.ee,YouTube
-host-suffix,youtube.es,YouTube
-host-suffix,youtube.fi,YouTube
-host-suffix,youtube.fr,YouTube
-host-suffix,youtube.ge,YouTube
-host-suffix,youtube.gr,YouTube
-host-suffix,youtube.gt,YouTube
-host-suffix,youtube.hk,YouTube
-host-suffix,youtube.hr,YouTube
-host-suffix,youtube.hu,YouTube
-host-suffix,youtube.ie,YouTube
-host-suffix,youtube.in,YouTube
-host-suffix,youtube.iq,YouTube
-host-suffix,youtube.is,YouTube
-host-suffix,youtube.it,YouTube
-host-suffix,youtube.jo,YouTube
-host-suffix,youtube.jp,YouTube
-host-suffix,youtube.kr,YouTube
-host-suffix,youtube.kz,YouTube
-host-suffix,youtube.la,YouTube
-host-suffix,youtube.lk,YouTube
-host-suffix,youtube.lt,YouTube
-host-suffix,youtube.lu,YouTube
-host-suffix,youtube.lv,YouTube
-host-suffix,youtube.ly,YouTube
-host-suffix,youtube.ma,YouTube
-host-suffix,youtube.md,YouTube
-host-suffix,youtube.me,YouTube
-host-suffix,youtube.mk,YouTube
-host-suffix,youtube.mn,YouTube
-host-suffix,youtube.mx,YouTube
-host-suffix,youtube.my,YouTube
-host-suffix,youtube.ng,YouTube
-host-suffix,youtube.ni,YouTube
-host-suffix,youtube.nl,YouTube
-host-suffix,youtube.no,YouTube
-host-suffix,youtube.pa,YouTube
-host-suffix,youtube.pe,YouTube
-host-suffix,youtube.ph,YouTube
-host-suffix,youtube.pk,YouTube
-host-suffix,youtube.pl,YouTube
-host-suffix,youtube.pr,YouTube
-host-suffix,youtube.pt,YouTube
-host-suffix,youtube.qa,YouTube
-host-suffix,youtube.ro,YouTube
-host-suffix,youtube.rs,YouTube
-host-suffix,youtube.ru,YouTube
-host-suffix,youtube.sa,YouTube
-host-suffix,youtube.se,YouTube
-host-suffix,youtube.sg,YouTube
-host-suffix,youtube.si,YouTube
-host-suffix,youtube.sk,YouTube
-host-suffix,youtube.sn,YouTube
-host-suffix,youtube.soy,YouTube
-host-suffix,youtube.sv,YouTube
-host-suffix,youtube.tn,YouTube
-host-suffix,youtube.tv,YouTube
-host-suffix,youtube.ua,YouTube
-host-suffix,youtube.ug,YouTube
-host-suffix,youtube.uy,YouTube
-host-suffix,youtube.vn,YouTube
-host-suffix,youtubeeducation.com,YouTube
-host-suffix,youtubefanfest.com,YouTube
-host-suffix,youtubegaming.com,YouTube
-host-suffix,youtubego.co.id,YouTube
-host-suffix,youtubego.co.in,YouTube
-host-suffix,youtubego.com,YouTube
-host-suffix,youtubego.com.br,YouTube
-host-suffix,youtubego.id,YouTube
-host-suffix,youtubego.in,YouTube
-host-suffix,youtubei.googleapis.com,YouTube
-host-suffix,youtubekids.com,YouTube
-host-suffix,youtubemobilesupport.com,YouTube
-host-suffix,yt.be,YouTube
-host-suffix,ytimg.com,YouTube
-ip-cidr,172.110.32.0/21,YouTube
-ip-cidr,216.73.80.0/20,YouTube
-ip6-cidr,2620:120:e000::/40,YouTube
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN-SUFFIX,ggpht.cn
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,withyoutube.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtube.ae
+  - DOMAIN-SUFFIX,youtube.al
+  - DOMAIN-SUFFIX,youtube.am
+  - DOMAIN-SUFFIX,youtube.at
+  - DOMAIN-SUFFIX,youtube.az
+  - DOMAIN-SUFFIX,youtube.ba
+  - DOMAIN-SUFFIX,youtube.be
+  - DOMAIN-SUFFIX,youtube.bg
+  - DOMAIN-SUFFIX,youtube.bh
+  - DOMAIN-SUFFIX,youtube.bo
+  - DOMAIN-SUFFIX,youtube.by
+  - DOMAIN-SUFFIX,youtube.ca
+  - DOMAIN-SUFFIX,youtube.cat
+  - DOMAIN-SUFFIX,youtube.ch
+  - DOMAIN-SUFFIX,youtube.cl
+  - DOMAIN-SUFFIX,youtube.co
+  - DOMAIN-SUFFIX,youtube.co.ae
+  - DOMAIN-SUFFIX,youtube.co.at
+  - DOMAIN-SUFFIX,youtube.co.cr
+  - DOMAIN-SUFFIX,youtube.co.hu
+  - DOMAIN-SUFFIX,youtube.co.id
+  - DOMAIN-SUFFIX,youtube.co.il
+  - DOMAIN-SUFFIX,youtube.co.in
+  - DOMAIN-SUFFIX,youtube.co.jp
+  - DOMAIN-SUFFIX,youtube.co.ke
+  - DOMAIN-SUFFIX,youtube.co.kr
+  - DOMAIN-SUFFIX,youtube.co.ma
+  - DOMAIN-SUFFIX,youtube.co.nz
+  - DOMAIN-SUFFIX,youtube.co.th
+  - DOMAIN-SUFFIX,youtube.co.tz
+  - DOMAIN-SUFFIX,youtube.co.ug
+  - DOMAIN-SUFFIX,youtube.co.uk
+  - DOMAIN-SUFFIX,youtube.co.ve
+  - DOMAIN-SUFFIX,youtube.co.za
+  - DOMAIN-SUFFIX,youtube.co.zw
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube.com.ar
+  - DOMAIN-SUFFIX,youtube.com.au
+  - DOMAIN-SUFFIX,youtube.com.az
+  - DOMAIN-SUFFIX,youtube.com.bd
+  - DOMAIN-SUFFIX,youtube.com.bh
+  - DOMAIN-SUFFIX,youtube.com.bo
+  - DOMAIN-SUFFIX,youtube.com.br
+  - DOMAIN-SUFFIX,youtube.com.by
+  - DOMAIN-SUFFIX,youtube.com.co
+  - DOMAIN-SUFFIX,youtube.com.do
+  - DOMAIN-SUFFIX,youtube.com.ec
+  - DOMAIN-SUFFIX,youtube.com.ee
+  - DOMAIN-SUFFIX,youtube.com.eg
+  - DOMAIN-SUFFIX,youtube.com.es
+  - DOMAIN-SUFFIX,youtube.com.gh
+  - DOMAIN-SUFFIX,youtube.com.gr
+  - DOMAIN-SUFFIX,youtube.com.gt
+  - DOMAIN-SUFFIX,youtube.com.hk
+  - DOMAIN-SUFFIX,youtube.com.hn
+  - DOMAIN-SUFFIX,youtube.com.hr
+  - DOMAIN-SUFFIX,youtube.com.jm
+  - DOMAIN-SUFFIX,youtube.com.jo
+  - DOMAIN-SUFFIX,youtube.com.kw
+  - DOMAIN-SUFFIX,youtube.com.lb
+  - DOMAIN-SUFFIX,youtube.com.lv
+  - DOMAIN-SUFFIX,youtube.com.ly
+  - DOMAIN-SUFFIX,youtube.com.mk
+  - DOMAIN-SUFFIX,youtube.com.mt
+  - DOMAIN-SUFFIX,youtube.com.mx
+  - DOMAIN-SUFFIX,youtube.com.my
+  - DOMAIN-SUFFIX,youtube.com.ng
+  - DOMAIN-SUFFIX,youtube.com.ni
+  - DOMAIN-SUFFIX,youtube.com.om
+  - DOMAIN-SUFFIX,youtube.com.pa
+  - DOMAIN-SUFFIX,youtube.com.pe
+  - DOMAIN-SUFFIX,youtube.com.ph
+  - DOMAIN-SUFFIX,youtube.com.pk
+  - DOMAIN-SUFFIX,youtube.com.pt
+  - DOMAIN-SUFFIX,youtube.com.py
+  - DOMAIN-SUFFIX,youtube.com.qa
+  - DOMAIN-SUFFIX,youtube.com.ro
+  - DOMAIN-SUFFIX,youtube.com.sa
+  - DOMAIN-SUFFIX,youtube.com.sg
+  - DOMAIN-SUFFIX,youtube.com.sv
+  - DOMAIN-SUFFIX,youtube.com.tn
+  - DOMAIN-SUFFIX,youtube.com.tr
+  - DOMAIN-SUFFIX,youtube.com.tw
+  - DOMAIN-SUFFIX,youtube.com.ua
+  - DOMAIN-SUFFIX,youtube.com.uy
+  - DOMAIN-SUFFIX,youtube.com.ve
+  - DOMAIN-SUFFIX,youtube.cr
+  - DOMAIN-SUFFIX,youtube.cz
+  - DOMAIN-SUFFIX,youtube.de
+  - DOMAIN-SUFFIX,youtube.dk
+  - DOMAIN-SUFFIX,youtube.ee
+  - DOMAIN-SUFFIX,youtube.es
+  - DOMAIN-SUFFIX,youtube.fi
+  - DOMAIN-SUFFIX,youtube.fr
+  - DOMAIN-SUFFIX,youtube.ge
+  - DOMAIN-SUFFIX,youtube.gr
+  - DOMAIN-SUFFIX,youtube.gt
+  - DOMAIN-SUFFIX,youtube.hk
+  - DOMAIN-SUFFIX,youtube.hr
+  - DOMAIN-SUFFIX,youtube.hu
+  - DOMAIN-SUFFIX,youtube.ie
+  - DOMAIN-SUFFIX,youtube.in
+  - DOMAIN-SUFFIX,youtube.iq
+  - DOMAIN-SUFFIX,youtube.is
+  - DOMAIN-SUFFIX,youtube.it
+  - DOMAIN-SUFFIX,youtube.jo
+  - DOMAIN-SUFFIX,youtube.jp
+  - DOMAIN-SUFFIX,youtube.kr
+  - DOMAIN-SUFFIX,youtube.kz
+  - DOMAIN-SUFFIX,youtube.la
+  - DOMAIN-SUFFIX,youtube.lk
+  - DOMAIN-SUFFIX,youtube.lt
+  - DOMAIN-SUFFIX,youtube.lu
+  - DOMAIN-SUFFIX,youtube.lv
+  - DOMAIN-SUFFIX,youtube.ly
+  - DOMAIN-SUFFIX,youtube.ma
+  - DOMAIN-SUFFIX,youtube.md
+  - DOMAIN-SUFFIX,youtube.me
+  - DOMAIN-SUFFIX,youtube.mk
+  - DOMAIN-SUFFIX,youtube.mn
+  - DOMAIN-SUFFIX,youtube.mx
+  - DOMAIN-SUFFIX,youtube.my
+  - DOMAIN-SUFFIX,youtube.ng
+  - DOMAIN-SUFFIX,youtube.ni
+  - DOMAIN-SUFFIX,youtube.nl
+  - DOMAIN-SUFFIX,youtube.no
+  - DOMAIN-SUFFIX,youtube.pa
+  - DOMAIN-SUFFIX,youtube.pe
+  - DOMAIN-SUFFIX,youtube.ph
+  - DOMAIN-SUFFIX,youtube.pk
+  - DOMAIN-SUFFIX,youtube.pl
+  - DOMAIN-SUFFIX,youtube.pr
+  - DOMAIN-SUFFIX,youtube.pt
+  - DOMAIN-SUFFIX,youtube.qa
+  - DOMAIN-SUFFIX,youtube.ro
+  - DOMAIN-SUFFIX,youtube.rs
+  - DOMAIN-SUFFIX,youtube.ru
+  - DOMAIN-SUFFIX,youtube.sa
+  - DOMAIN-SUFFIX,youtube.se
+  - DOMAIN-SUFFIX,youtube.sg
+  - DOMAIN-SUFFIX,youtube.si
+  - DOMAIN-SUFFIX,youtube.sk
+  - DOMAIN-SUFFIX,youtube.sn
+  - DOMAIN-SUFFIX,youtube.soy
+  - DOMAIN-SUFFIX,youtube.sv
+  - DOMAIN-SUFFIX,youtube.tn
+  - DOMAIN-SUFFIX,youtube.tv
+  - DOMAIN-SUFFIX,youtube.ua
+  - DOMAIN-SUFFIX,youtube.ug
+  - DOMAIN-SUFFIX,youtube.uy
+  - DOMAIN-SUFFIX,youtube.vn
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubefanfest.com
+  - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,youtubego.co.id
+  - DOMAIN-SUFFIX,youtubego.co.in
+  - DOMAIN-SUFFIX,youtubego.com
+  - DOMAIN-SUFFIX,youtubego.com.br
+  - DOMAIN-SUFFIX,youtubego.id
+  - DOMAIN-SUFFIX,youtubego.in
+  - DOMAIN-SUFFIX,youtubei.googleapis.com
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,youtubemobilesupport.com
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,youtube
+  - IP-CIDR,172.110.32.0/21
+  - IP-CIDR,216.73.80.0/20
+  - IP-CIDR6,2620:120:e000::/40
