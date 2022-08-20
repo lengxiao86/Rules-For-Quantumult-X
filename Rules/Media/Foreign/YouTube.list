@@ -5,7 +5,7 @@ user-agent,YouTube*,YouTube
 domain-suffix,googlevideo.com,YouTube
 domain-suffix,youtube.com,YouTube
 host,youtubei.googleapis.com,YouTube
-domain-suffix,.youtube,YouTube
+domain-suffix,youtube,YouTube
 domain-suffix,ggpht.cn,YouTube
 domain-suffix,ggpht.com,YouTube
 domain-suffix,googlevideo.com,YouTube
